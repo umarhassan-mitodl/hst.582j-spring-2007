@@ -15,35 +15,35 @@ uid: a648947c-b349-6353-322e-9f3c12dbdcea
 
 This page describes several applets and on-line tutorials that cover some of the material presented in the first few weeks of the course. They are organized below according to lecture topic. All of the applets come from four main sites, listed here along with a general note about each. If you are aware of other Web-based resources for learning this material, please let us know so that we can add them.
 
-{{% resource_link "803e17b8-09b0-4c64-b20a-cce03a5f9820" "JHU Signals, Systems & Control Demonstrations" %}} - Has many different tutorials and applets available. In general the applets on this site are the best of those listed. If you are limited on time, go to this site.
+[JHU Signals, Systems & Control Demonstrations](http://www.jhu.edu/~signals/) - Has many different tutorials and applets available. In general the applets on this site are the best of those listed. If you are limited on time, go to this site.
 
-{{% resource_link "b490647f-12a4-4659-a420-2f07468d39dc" "J-DSP" %}} - A very broad application where the user defines what signal processing is done through the setting up of a block diagram. Takes a little time initially to become familiar with the application, but can be very useful. A detailed description follows in its own section below.
+[J-DSP](https://jdsp.dev/) - A very broad application where the user defines what signal processing is done through the setting up of a block diagram. Takes a little time initially to become familiar with the application, but can be very useful. A detailed description follows in its own section below.
 
-{{% resource_link "77149ddc-8e49-42ee-a713-d6d4acf59f53" "Gibbs Phenomenon" %}}
+[Gibbs Phenomenon](https://ocw-studio.odl.mit.edu/ans7870/18/18.06/javademo/Gibbs/)
 
 MIT's Linear Algebra 18.06
 
 ## Data Acquisition
 
-{{% resource_link "3e1945dc-9149-4e6d-b3fd-3c261353f0c1" "JHU Sampling" %}} - An **ok** applet that shows the results of changing the sampling frequency on the sampled signal and also the frequency magnitude.
+[JHU Sampling](http://www.jhu.edu/~signals/sampling/index.html) - An **ok** applet that shows the results of changing the sampling frequency on the sampled signal and also the frequency magnitude.
 
-{{% resource_link "84078fa9-6d45-4925-8453-f0ae8b5c211d" "JHU Discrete-Time Frequency" %}} - A quick overview of the differences between continuous and discrete time frequency components.
+[JHU Discrete-Time Frequency](http://www.jhu.edu/~signals/dtphasor/index.htm) - A quick overview of the differences between continuous and discrete time frequency components.
 
 ## Digital Filtering: LTI properties, Convolution, FIR, IIR filters
 
-{{% resource_link "b0b9ecc3-a20f-4ced-8090-ee84010bf254" "JHU LTI Systems and Convolution" %}} - An interactive lecture that contains a very good overview of LTI system properties and convolution. Includes an applet that allows the user to view the flip and shift method of continuous time convolution.
+[JHU LTI Systems and Convolution](http://www.jhu.edu/~signals/lecture1/frames.html) - An interactive lecture that contains a very good overview of LTI system properties and convolution. Includes an applet that allows the user to view the flip and shift method of continuous time convolution.
 
-{{% resource_link "61b48af7-81ab-4a5a-a1df-86804ae95800" "JHU Discrete-Time Convolution" %}} - Discrete Time convolution applet that is easy to use and shows the flip and shift method. Not a lot of explanation provided.
+[JHU Discrete-Time Convolution](http://www.jhu.edu/~signals/discreteconv2/index.html) - Discrete Time convolution applet that is easy to use and shows the flip and shift method. Not a lot of explanation provided.
 
-{{% resource_link "b490647f-12a4-4659-a420-2f07468d39dc" "J-DSP" %}} - See below.
+[J-DSP](https://jdsp.dev/) - See below.
 
 ## DTFT and DFT: FFT, Overlap-Add, Overlap-Save
 
-{{% resource_link "7dd725ec-41d4-4781-900a-6e7b9f01e9fc" "JHU Discrete-Time Fourier Series" %}} - Discrete Time Fourier Series (DTFS): applet that shows the relationship of DTFS coefficients, which are closely related to the DFT.
+[JHU Discrete-Time Fourier Series](http://www.jhu.edu/signals/discretefourier/index.htm) - Discrete Time Fourier Series (DTFS): applet that shows the relationship of DTFS coefficients, which are closely related to the DFT.
 
-{{% resource_link "089b0941-a70f-4b53-b22c-93ccfc84e3a5" "JHU Continuous Fourier Transform" %}} - Continuous Time Fourier Transform (CTFT): Gives some properties of the CTFT, and allows the user to view the changes to the magnitude and phase of the transform given a change in amplitude, time shift, or derivative of the original signal.
+[JHU Continuous Fourier Transform](http://www.jhu.edu/~signals/ctftprops/indexCTFTprops.htm) - Continuous Time Fourier Transform (CTFT): Gives some properties of the CTFT, and allows the user to view the changes to the magnitude and phase of the transform given a change in amplitude, time shift, or derivative of the original signal.
 
-{{% resource_link "b490647f-12a4-4659-a420-2f07468d39dc" "J-DSP" %}} - See below.
+[J-DSP](https://jdsp.dev/) - See below.
 
 ## Spectral Analysis
 
@@ -51,7 +51,7 @@ Interactive demonstration of spectral analysis developed for this course and use
 
 ## J-DSP
 
-Java Digital Signal Processing ({{% resource_link "b490647f-12a4-4659-a420-2f07468d39dc" "J-DSP" %}}) is an on-line DSP simulator. The program is very broad and does not target a specific topic like the other tutorials. But it can be very useful for filter design, FFT evaluation, and even speech analysis. J-DSP does take a little bit of time to get used to, however.
+Java Digital Signal Processing ([J-DSP](https://jdsp.dev/)) is an on-line DSP simulator. The program is very broad and does not target a specific topic like the other tutorials. But it can be very useful for filter design, FFT evaluation, and even speech analysis. J-DSP does take a little bit of time to get used to, however.
 
 ### Filter Example
 
@@ -70,4 +70,4 @@ The three blocks at the bottom of the figure are a quick way to view the FFT of 
 
 {{< resource uuid="5b483057-b0cc-4b6c-87e2-2114ce145d71" >}}
 
-Magnitude and phase of the FFT in a J-DSP Editor. (Courtesy of Prof. Andreas Spanias and {{% resource_link "2b2e81b4-f535-487f-985a-ad37e14d0a6d" "J-DSP" %}}. Used with permission.)
+Magnitude and phase of the FFT in a J-DSP Editor. (Courtesy of Prof. Andreas Spanias and [J-DSP](http://jdsp.asu.edu/). Used with permission.)

@@ -7,6 +7,8 @@ description: Laboratory assignment to investigate the behavior of several object
 file: /courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/053df9071e85e828c0a03c054e45ef02_lab4_reg.pdf
 file_size: 204275
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

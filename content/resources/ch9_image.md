@@ -6,6 +6,8 @@ description: Lecture notes on image processing, 2-D continuous space Fourier tra
 file: /courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/c7944cf98cf3d8b19b985e38f3306f31_ch9_image.pdf
 file_size: 468598
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

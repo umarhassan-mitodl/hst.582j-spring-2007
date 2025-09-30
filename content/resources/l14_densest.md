@@ -4,6 +4,8 @@ description: Lecture slides on decision systems and density estimation.
 file: /courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/0bfe433e1dcd849ef41d432faa1c3e00_l14_densest.pdf
 file_size: 710022
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

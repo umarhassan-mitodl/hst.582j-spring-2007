@@ -7,6 +7,8 @@ description: 'Supporting files for Lab 4. (The ZIP file contains: 1 .mat file an
 file: /courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/fa7789da2f3219d649d66eee68e44b72_lab4files.zip
 file_size: 698669
 file_type: application/zip
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

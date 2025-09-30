@@ -6,6 +6,8 @@ description: Lecture notes on random signals and linear systems, response of LTI
 file: /courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/486d9caf4d80df83da4a5959b4a1d40e_ch12_randsys.pdf
 file_size: 337366
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

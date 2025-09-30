@@ -3,6 +3,8 @@ content_type: page
 description: The syllabus section provides the course overview and information on
   prerequisites, lecture topics, laboratory projects, bibliography, grading, and recommended
   citation.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -80,7 +82,7 @@ Papoulis, A., and S. U. Pillai. _Probability, Random Variables, and Stochastic P
 
 ### Basics
 
-{{% resource_link "b49d8679-0efe-45f5-b367-f55527f6592b" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Siebert, W. M. {{% resource_link "b49d8679-0efe-45f5-b367-f55527f6592b" "_Circuits, Signals and Systems_" %}}. Cambridge, MA: MIT Press, 1985. ISBN: 9780262192293.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262192293) Siebert, W. M. [_Circuits, Signals and Systems_](https://mitpress.mit.edu/9780262192293). Cambridge, MA: MIT Press, 1985. ISBN: 9780262192293.
 
 Oppenheim, A. V., and A. S. Willsky, with H. Nawab. _Signals and Systems_. 2nd ed. Upper Saddle River: Prentice-Hall, 1996. ISBN: 9780138147570.
 
@@ -94,11 +96,11 @@ Duda, R., P. Hart, and D. Stork. _Pattern Classification_. 2nd ed. New York, NY:
 
 Bishop, C. _Neural Networks for Pattern Recognition_. New York, NY: Oxford University Press, 1996. ISBN: 9780198538646.
 
-Nabney, I. {{% resource_link "aba4fb88-e80b-412f-a61c-6a060779ca79" "_Netlab: Algorithms for Pattern Recognition_" %}}. 3rd ed. New York, NY: Springer, 2004. ISBN: 9781852334406.
+Nabney, I. [_Netlab: Algorithms for Pattern Recognition_](https://www.mathworks.com/support/books/book48297.html). 3rd ed. New York, NY: Springer, 2004. ISBN: 9781852334406.
 
 ### ECG Analysis
 
-Clifford, G., F. Azuajae, and P. McSharry. {{% resource_link "49bdcfa7-3c12-4252-9bf0-dcbde1ad388a" "_Advanced Methods and Tools for ECG Data Analysis_" %}}. Norwood, MA: Artech House, 2006. ISBN: 9871580539661.
+Clifford, G., F. Azuajae, and P. McSharry. [_Advanced Methods and Tools for ECG Data Analysis_](http://www.mit.edu/~gari/ecgbook.html). Norwood, MA: Artech House, 2006. ISBN: 9871580539661.
 
 ### Speech Analysis
 

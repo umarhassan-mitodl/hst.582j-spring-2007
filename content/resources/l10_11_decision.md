@@ -6,6 +6,8 @@ description: Lecture slides on automated decision making systems, information an
 file: /courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/ee4c1203d78e72ad83ad2026cdabcd0f_l10_11_decision.pdf
 file_size: 492431
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

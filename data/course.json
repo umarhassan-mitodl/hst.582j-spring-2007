@@ -42,6 +42,7 @@
     "website": "hst-582j-biomedical-signal-and-image-processing-spring-2007"
   },
   "course_title": "Biomedical Signal and Image Processing",
+  "hide_download": true,
   "course_description": "This course presents the fundamentals of digital signal processing with particular emphasis on problems in biomedical research and clinical medicine. It covers principles and algorithms for processing both deterministic and random signals. Topics include data acquisition, imaging, filtering, coding, feature extraction, and modeling. The focus of the course is a series of labs that provide practical experience in processing physiological data, with examples from cardiology, speech processing, and medical imaging. The labs are done in MATLAB\u00ae during weekly lab sessions that take place in an electronic classroom. Lectures cover signal processing topics relevant to the lab exercises, as well as background on the biological signals processed in the labs.\n",
   "department_numbers": [
     "HST",
@@ -54,6 +55,7 @@
     "content": "4a0c7a63-e06f-d7af-24de-c9b87eba1282",
     "website": "hst-582j-biomedical-signal-and-image-processing-spring-2007"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Lecture Notes"

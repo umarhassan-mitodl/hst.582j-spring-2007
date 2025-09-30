@@ -7,6 +7,8 @@ description: Lecture notes on digital filters, filters defined by linear differe
 file: /courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/b60ddec52ee7fc26607f8afc8a77daf5_ch2_dfilt.pdf
 file_size: 317071
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: Lecture slides on random signals, statistics, and signal processing
 file: /courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/ebeea1f7c04f69bffd1ee905f9239598_l19_20_randsig.pdf
 file_size: 1683492
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

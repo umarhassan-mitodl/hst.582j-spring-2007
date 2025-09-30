@@ -6,6 +6,8 @@ description: Lecture slides with an introduction to medical image segmentation, 
 file: /courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/074953ec10515650f22001814e115273_l15_seg.pdf
 file_size: 1050208
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

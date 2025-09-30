@@ -5,6 +5,8 @@ description: Laboratory assignment to design a filter for conditioning the elect
 file: /courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/d488a43192bf9e1059c89bc756e7c16a_lab1_ecg.pdf
 file_size: 277242
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

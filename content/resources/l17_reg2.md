@@ -5,6 +5,8 @@ description: Lecture slides on medical image registration, continued from previo
 file: /courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/08a8b4e8e37a98c3b8fdc6d6f15e1802_l17_reg2.pdf
 file_size: 2681254
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -7,6 +7,8 @@ description: Lecture notes on linear prediction, the all-pole model of speech, r
 file: /courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/2196bd20e45d3935fd34e6442f1217bd_ch8_lpc.pdf
 file_size: 525954
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

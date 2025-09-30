@@ -11,13 +11,13 @@ uid: 15acc9f4-c41b-b7a1-5699-bd06a35ffc20
 
 - {{% resource_link "a648947c-b349-6353-322e-9f3c12dbdcea" "Signal Processing Resources" %}} - annotated list of Web-based resources
 - {{% resource_link "30c5fe9b-abc2-407e-91c5-cb43c4e30fbd" "Probability Resources" %}} - annotated list of Web-based resources
-- Gari Clifford's links: {{% resource_link "64c548c3-8d73-432e-a684-5ef99dda97a5" "General" %}}, {{% resource_link "a5a12e2d-c43f-48c8-984b-ece03e3e87e2" "Algorithms" %}}
+- Gari Clifford's links: [General](http://www.mit.edu/~gari/teaching.html), [Algorithms](http://www.mit.edu/~gari/algos.html)
 - [Spectral Analysis Interactive Tutor (PDF)](ftp://ftp.ni.com/pub/devzone/LabVIEW_Spectral_Tutorial.pdf)
-- {{% resource_link "a38b28fb-b76c-4500-b070-d219ae849c50" "Spectral Analysis Interactive Demo" %}}
-- {{% resource_link "5f7012e3-ec77-4150-bbc9-887055215fc6" "Independent Component Analysis (ICA) demo" %}} ("the cocktail party problem")
+- [Spectral Analysis Interactive Demo](http://web.mit.edu/6.555/www/applet/DFT.html)
+- [Independent Component Analysis (ICA) demo](https://www.kaggle.com/code/anashamoutni/cocktail-party-problem-tutorial-using-fastica) ("the cocktail party problem")
 
 ## Related Links
 
-- {{% resource_link "1df0c9c0-e5ca-43f1-b7c5-6a12964476b1" "Division of Health Sciences and Technology" %}}
-- {{% resource_link "07da1325-4b48-4583-ba46-b33f015819c3" "BWH Surgical Planning Laboratory" %}}
+- [Division of Health Sciences and Technology](http://hst.mit.edu/)
+- [BWH Surgical Planning Laboratory](http://www.spl.harvard.edu/)
 - Text-to-Speech Synthesis

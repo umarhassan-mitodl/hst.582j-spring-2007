@@ -5,6 +5,8 @@ description: 'Supporting files for Lab 1. (The ZIP file contains: 12 .txt files,
 file: /courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/8900fe7d215ec3068342f2b91ecbe501_lab1files.zip
 file_size: 1499072
 file_type: application/zip
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: Lecture notes on biomedical signal and image processing, signals, i
 file: /courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/d6481c390f02757501c3e87a13c2d5b6_l1_intro.pdf
 file_size: 148467
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
